@@ -1,0 +1,1 @@
+system.use("smart-debug.lib.console");
